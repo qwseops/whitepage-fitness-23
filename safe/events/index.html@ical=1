@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fitness Gym Cartagena - ECPv4.9.10//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fitness Gym Cartagena
+X-ORIGINAL-URL:https://fitnesscartagena.es
+X-WR-CALDESC:Eventos para Fitness Gym Cartagena
+END:VCALENDAR
